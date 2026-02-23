@@ -1,0 +1,8 @@
+{
+  "scan_info": {
+    "target": "hackerone.com",
+    "scan_date": "2026-02-23T23:11:47.246790",
+    "total_confirmed": 0
+  },
+  "findings": []
+}

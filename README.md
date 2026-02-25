@@ -28,7 +28,7 @@ An autonomous bug bounty tool that finds **exploitable** subdomain takeovers and
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/TakeoverHunter.git
+git clone https://github.com/hemanthshashidhar/subdomain-takeover.git
 cd TakeoverHunter
 
 # Make installer executable
